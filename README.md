@@ -5,8 +5,8 @@ Escape Geabrande is an immersive virtual reality (VR) game that throws players i
 Project Duration: 4 months
 
 <p float="left">
-  <img src="Geabrande Imgs/HomeScreenPart1.png" style="margin-right: 20px;" />
-  <img src="Geabrande Imgs/HomeScreenPart2.png" style="margin-right: 20px;" /> 
+  <img src="Geabrande_Imgs/HomeScreenPart1.png" style="margin-right: 20px;" />
+  <img src="Geabrande_Imgs/HomeScreenPart2.png" style="margin-right: 20px;" /> 
 </p>
 
 ## Features
@@ -118,14 +118,15 @@ To experience the space battle adventure of Escape Geabrande, follow these steps
 
 ### Game Assets
 
-1. **Perks Shape and Color**: [Simple Gems Ultimate Animated Customizable Pack](https://example.com/perks-gems-pack)
+1. **Perks Shape and Color**: [Simple Gems Ultimate Animated Customizable Pack](https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764)
 2. **Asteroids**: Breakable Asteroids (provided a means of the asteroids breaking apart but was removed due to performance issues)
-3. **Explosion Animation/Sound**: [Detonator Explosion Framework](https://example.com/detonator-explosion)
-4. **Laser Sound Effect**: [Free Laser Weapons](https://example.com/free-laser-weapons)
-5. **Sample Ships/Bullets**: [Hi-Rez Spaceships Creator Free Sample](https://example.com/spaceships-creator)
-6. **Particles (Hitting Alien/Healing/Spawning)**: [Particle Ribbon](https://example.com/particle-ribbon)
-7. **Scene Skyblock**: [SpaceSkies Free](https://example.com/spaceskies-free)
-8. **Background Theme Music**: Universe Sounds Free Pack
+3. **Explosion Animation/Sound**: [Detonator Explosion Framework](https://assetstore.unity.com/packages/vfx/particles/detonator-explosion-framework-1)
+4. **Laser Sound Effect**: [Free Laser Weapons](https://assetstore.unity.com/packages/audio/sound-fx/weapons/free-laser-weapons-214929)
+5. **Sample Ships/Bullets**: [Hi-Rez Spaceships Creator Free Sample](https://assetstore.unity.com/packages/3d/vehicles/space/hi-rez-spaceships-creator-free-sample-153363)
+6. **Particles (Hitting Alien/Healing/Spawning)**: [Particle Ribbon](https://assetstore.unity.com/packages/vfx/particles/spells/particle-ribbon-42866)
+7. **Scene Skyblock**: [SpaceSkies Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503)
+8. **Background Theme Music**: [Universe Sounds Free Pack](https://assetstore.unity.com/packages/audio/ambient/sci-fi/universe-sounds-free-pack-118865)
+9. **Shield**: [Responsive Energy Shield](https://assetstore.unity.com/packages/vfx/shaders/responsive-energy-shield-141118)
 
 ### Alien Avatar/Animations
 
