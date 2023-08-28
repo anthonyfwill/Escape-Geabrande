@@ -11,28 +11,78 @@ Project Duration: 4 months
 
 ## Features
 
-- **Epic Space Battle:** Engage in a high-stakes battle against a colossal alien threat, delivering damage and employing tactical maneuvers to emerge victorious.
-
-- **Strategic Power-ups:** Deal damage to the alien to obtain power-up items that grant unique advantages:
-
+- **Intense Space Battle:** Engage in an epic showdown with a colossal alien in the vastness of space.
+  
+- **Dynamic Power-Ups:** Destroy meteors and collect power-ups that grant you advantages such as shields, increased movement speed, max health, and quad shots.
+  
   | Power-up | Description |
   | -------- | ----------- |
   | Shield   | Provides a protective barrier against attacks. |
   | Movement Speed | Increases your spacecraft's agility and speed. | 
-  | Max Health Boost | Increases your spacecraft's maximum health capacity. | 
+  | Max Health Boost | Increases your spacecraft's maximum health capacity. |
   | Quad Shots | Enables your spacecraft to fire four shots at once. |
 
-  ![Shield Power-up](Geabrande_Imgs/Shield.jpg)
-  ![Max Health Power-up](Geabrande_Imgs/Heal_Particles.jpg)
-  ![Quad Shots Power-up](Geabrande_Imgs/Quad_Shot.jpg)
+  <img src="Geabrande_Imgs/Shield.jpg" alt="Shield Power-up" width="300" height="200" />
+  <img src="Geabrande_Imgs/Heal_Particles.jpg" alt="Max Health Power-up" width="300" height="200" />
+  <img src="Geabrande_Imgs/Quad_Shot.jpg" alt="Quad Shots Power-up" width="300" height="200" />
+  
+- **VR Immersion:** Escape Geabrande offers an immersive VR experience through Google Cardboard, providing an engaging and interactive gameplay environment.
+  
+- **Realistic Space Elements:** Navigate through a hazardous field of meteors, asteroids, and debris, requiring skillful maneuvering to survive.
+  
+- **Audio Engagement:** Immerse yourself further with a rich audio experience, including meteor launch cues, explosion sounds, and an intense background theme.
+  
+- **Diverse Assets:** The game features a range of meticulously designed 3D models, animations, particles, and sound effects to enhance the visual and auditory aspects of the gameplay.
 
-- **Dynamic Spellcasting:** Experience the alien's powerful spellcasting as it spawns meteors at substantial speeds, requiring quick reflexes to evade.
+## Gameplay
 
-- **Hazardous Space Environment:** Navigate through a treacherous setting filled with meteors, asteroids, and debris, adding a layer of challenge to the battle.
+1. **Engage the Alien**: Enter a high-stakes battle against a massive alien that threatens your existence and the universe as you know it.
+2. **Collect Power-Ups**: Destroy meteors to collect power-ups, including shields, speed boosts, health upgrades, and quad shots.
+3. **Dodge Space Debris**: Evade incoming meteors, asteroids, and debris while maintaining your focus on the alien threat.
+4. **Immersive VR Controls**: Utilize Google Cardboard VR controls for seamless and accessible gameplay.
+5. **Strategic Decision-Making**: Choose when to collect power-ups and when to engage the alien, balancing offense and defense.
+6. **Audio Cues**: React to audio cues, including meteor launch alerts, shot sounds, and explosions, to stay aware of your surroundings.
+7. **Intense Soundtrack**: Experience heightened intensity with a gripping background theme that enhances the gaming atmosphere.
 
-- **Audio Immersion:** Immerse yourself in the intense gameplay with audio cues that enhance the experience, from the sounds of meteor launches to the explosion of collisions.
+## Perspectives
 
-- **Google Cardboard VR Support:** Escape Geabrande is designed for Android devices with Google Cardboard VR support, offering a seamless and immersive gaming experience.
+### First Person Perspective
+
+![First Person Perspective](Geabrande_Imgs/FirstPerson.jpg)
+
+Experience the action from the cockpit of your spacecraft. Immerse yourself in the game's world with a first-person perspective that puts you right in the middle of the cosmic battle. React swiftly to threats and maneuver through space with unparalleled realism.
+
+### Third Person Perspective
+
+![Third Person Perspective](Geabrande_Imgs/ThirdPerson.jpg)
+
+Gain a comprehensive view of the battlefield with the third-person perspective. Witness the grandeur of space and the scale of the alien threat while navigating through the treacherous debris-filled environment.
+
+## Collectibles
+
+### Asteroids
+
+![Asteroid Collectible](Geabrande_Imgs/Asteroids.jpg)
+
+Destroy asteroids to collect power-ups and enhance your capabilities. Asteroids can drop essential items that aid in your battle against the alien.
+
+### Meteors
+
+![Meteor Collectible](Geabrande_Imgs/Meteor.jpg)
+
+Dodge the deadly meteor showers launched by the alien, testing your reflexes and maneuvering skills. Navigate through the onslaught of meteors to survive and continue the battle against the alien threat.
+
+### Perks
+
+![Perks Collectible](Geabrande_Imgs/Perks.jpg)
+
+Collect power-ups that provide various benefits such as shields, speed boosts, increased health, and quad shots. Strategically acquire and utilize these perks to gain an edge in the fight.
+
+### Alien Avatar
+
+![Alien Avatar](Geabrande_Imgs/Alien.jpg)
+
+Confront the menacing alien that stands between you and your mission to save your friend and return home. Prepare for an intense battle against this formidable adversary.
 
 ## Future Enhancements (Checklist)
 
