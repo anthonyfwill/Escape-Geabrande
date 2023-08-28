@@ -14,7 +14,7 @@ Project Duration: 4 months
 - **Epic Space Battle:** Engage in a high-stakes battle against a colossal alien threat, delivering damage and employing tactical maneuvers to emerge victorious.
 
 - **Strategic Power-ups:** Deal damage to the alien to obtain power-up items that grant unique advantages:
-  | Power-up | Description | Image |
+| Power-up | Description | Image |
 | -------- | ----------- | ----- |
 | Shield   | Provides a protective barrier against attacks. | ![Shield Power-up](Geabrande Imgs/Shield.jpg) |
 | Movement Speed | Increases your spacecraft's agility and speed. | ![Movement Speed Power-up](Geabrande Imgs/) |
