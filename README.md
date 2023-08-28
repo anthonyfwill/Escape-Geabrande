@@ -4,7 +4,10 @@ Escape Geabrande is an immersive virtual reality (VR) game that throws players i
 
 Project Duration: 4 months
 
-![Escape Geabrande](game_screenshot.jpg)
+<p float="left">
+  <img src="Geabrande Imgs/HomeScreenPart1.png" style="margin-right: 20px;" />
+  <img src="Geabrande Imgs/HomeScreenPart2.png" style="margin-right: 20px;" /> 
+</p>
 
 ## Features
 
