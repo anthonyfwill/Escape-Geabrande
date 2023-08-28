@@ -14,17 +14,17 @@ Project Duration: 4 months
 - **Epic Space Battle:** Engage in a high-stakes battle against a colossal alien threat, delivering damage and employing tactical maneuvers to emerge victorious.
 
 - **Strategic Power-ups:** Deal damage to the alien to obtain power-up items that grant unique advantages:
-| Power-up | Description | Image |
-| -------- | ----------- | ----- |
-| Shield   | Provides a protective barrier against attacks. | ![Shield Power-up](Geabrande Imgs/Shield.jpg) |
-| Movement Speed | Increases your spacecraft's agility and speed. | ![Movement Speed Power-up](Geabrande Imgs/) |
-| Max Health Boost | Increases your spacecraft's maximum health capacity. | ![Max Health Power-up](Geabrande Imgs/Heal_Particles.jpg) |
-| Quad Shots | Enables your spacecraft to fire four shots at once. | ![Quad Shots Power-up](Geabrande Imgs/Quad_Shot.jpg) |
 
-  - [x] Shield
-  - [x] Increased Movement Speed
-  - [x] Max Health Boost
-  - [x] Quad Shots
+  | Power-up | Description |
+  | -------- | ----------- |
+  | Shield   | Provides a protective barrier against attacks. |
+  | Movement Speed | Increases your spacecraft's agility and speed. | 
+  | Max Health Boost | Increases your spacecraft's maximum health capacity. | 
+  | Quad Shots | Enables your spacecraft to fire four shots at once. |
+
+  ![Shield Power-up](Geabrande_Imgs/Shield.jpg)
+  ![Max Health Power-up](Geabrande_Imgs/Heal_Particles.jpg)
+  ![Quad Shots Power-up](Geabrande_Imgs/Quad_Shot.jpg)
 
 - **Dynamic Spellcasting:** Experience the alien's powerful spellcasting as it spawns meteors at substantial speeds, requiring quick reflexes to evade.
 
