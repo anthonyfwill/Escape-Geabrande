@@ -114,6 +114,27 @@ To experience the space battle adventure of Escape Geabrande, follow these steps
 4. Build the game for Android devices.
 5. Install the game on your Android device and immerse yourself in the battle!
 
+## Credits
+
+### Game Assets
+
+1. **Perks Shape and Color**: [Simple Gems Ultimate Animated Customizable Pack](https://example.com/perks-gems-pack)
+2. **Asteroids**: Breakable Asteroids (provided a means of the asteroids breaking apart but was removed due to performance issues)
+3. **Explosion Animation/Sound**: [Detonator Explosion Framework](https://example.com/detonator-explosion)
+4. **Laser Sound Effect**: [Free Laser Weapons](https://example.com/free-laser-weapons)
+5. **Sample Ships/Bullets**: [Hi-Rez Spaceships Creator Free Sample](https://example.com/spaceships-creator)
+6. **Particles (Hitting Alien/Healing/Spawning)**: [Particle Ribbon](https://example.com/particle-ribbon)
+7. **Scene Skyblock**: [SpaceSkies Free](https://example.com/spaceskies-free)
+8. **Background Theme Music**: Universe Sounds Free Pack
+
+### Alien Avatar/Animations
+
+- Alien avatar/animations were created using Mixamo.
+
+### Homescreen Design
+
+- The homescreen design was created using Photopea.
+  
 ## Contributions
 
 Contributions to Escape Geabrande are welcomed! Feel free to submit pull requests, suggest new features, or report any issues you encounter.
