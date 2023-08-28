@@ -2,6 +2,8 @@
 
 Escape Geabrande is an immersive virtual reality (VR) game that throws players into a thrilling space battle. With the goal of saving a friend and returning home, players must face a massive alien adversary, strategically utilize power-ups, and navigate through a hazardous space environment. The game was developed using Unity, incorporating a variety of assets and 3D models to create a captivating gameplay experience.
 
+Project Duration: 4 months
+
 ![Escape Geabrande](game_screenshot.jpg)
 
 ## Features
